@@ -4,6 +4,7 @@ import Card from './Card'
 
 
 class ResponsiveSlider extends React.Component {
+
     render() {
 
         const SlickArrowLeft = ({ currentSlide, slideCount, ...props }) => (
